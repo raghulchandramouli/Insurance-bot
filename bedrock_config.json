@@ -1,0 +1,13 @@
+{
+  "aws_access_key_id": "YOUR_AWS_ACCESS_KEY_ID",
+  "aws_secret_access_key": "YOUR_AWS_SECRET_ACCESS_KEY",
+  "aws_session_token": "YOUR_AWS_SESSION_TOKEN",
+  "region_name": "us-east-1",
+  "bedrock_settings": {
+    "model_id": "model_id",
+    "max_gen_len": 512,
+    "temperature": 0.5,
+    "top_p": 0.9
+  },
+  "iam_role_arn": "arn:aws:iam::YOUR_ACCOUNT_ID:role/YOUR_ROLE_NAME"
+}
