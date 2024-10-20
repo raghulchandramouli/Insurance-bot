@@ -26,7 +26,7 @@ AWS SAM template that defines the serverless application. It:
 
 ### Dockerfile
 Sets up a local development environment. It:
-- Uses Python 3.9
+- Uses Python 3.12
 - Installs AWS CLI and required Python packages
 - Sets up the environment to run SAM local API
 
