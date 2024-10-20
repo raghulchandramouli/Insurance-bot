@@ -43,6 +43,4 @@ Script to create a deployment package for Lambda. It:
 3. Run `create_deployment_package.py` to create a deployment package.
 4. Use AWS SAM to deploy the application to AWS.
 
-## Security Note
 
-Ensure that `bedrock_config.json` is not committed to version control as it contains sensitive information.
